@@ -1,5 +1,12 @@
-# COVIDTracker
+# COVID Tracker
 
-Minimundo:
-O aplicativo COVID Tracker tem como objetivo apoiar organizaÁıes no combate ao COVID-19. Ao manter um banco de dados com informaÁıes atualizadas de seus colaboradores, È possÌvel controlar a taxa de contaminaÁ„o da doenÁa na companhia e cuidar da sa˙de de suas pessoa. 
-Ao comparecer em um dos hospitais credenciados, o funcion·rio tem sua prontu·rio atualizado no sistema uma vez que seja atendido por um mÈdico. Caso o resultado para o vÌrus seja positivo, ele ficar· sob observaÁ„o e dever· ser hospitalizado se apresentar sintomas mais severos. Este processo pode ser visto pela Ûtica dos trÍs agentes do processo: o funcion·rio estar· em comunicaÁ„o direta com o departamento de recursos humanos de sua empresa, que por sua vez colher· informaÁıes do hospital sobre o estado de sa˙de de seu colaborador.
+# Minimundo
+
+O aplicativo "COVID Tracker" tem como seu objetivo o apoio de organiza√ß√µes que prestam combate ao COVID-19. Um banco de dados atualizado com informa√ß√µes constantes dos apoiadores e colaboradores do projeto existir√°, e por meio dele ser√° poss√≠vel auxiliar no controle da taxa de contaminados pela doen√ßa nas respectivas companhias e assegurar a sa√∫de de todos envolvidos em seus processos.
+
+Com o comparecimento de funcion√°rios aos hospitais, os mesmos podem ter seus prontu√°rios atualizados no sistema assim que sejam atendidos por m√©dicos. Se porventura o resultado do teste seja positivo para a presen√ßa de coronav√≠rus, o funcion√°rio ficar√° sob observa√ß√£o e ser√° hospitalizado caso apresente sintomas mais severos.
+
+Em termos de organiza√ß√£o, este processo pode ser observado pela √≥tica dos tr√™s agentes envolvidos no processo: O funcion√°rio estar√° em comunica√ß√£o direta com o departamento de recursos humanos de sua empresa, que por sua vez, colher√° informa√µes do hospital sobre o estado de sa√∫de de seu colaborador.
+
+Tamb√©m haver√° comunica√ß√£o do sistema com empresas terceirizadas por parte dos hospitais, que ir√£o garantir as quest√µes relacionadas √† processos que envolvem finan√ßas.
+
