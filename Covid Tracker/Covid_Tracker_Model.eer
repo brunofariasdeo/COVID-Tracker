@@ -8,7 +8,7 @@
     <nodes xmi:type="eer:Attribute" xmi:id="_RO2LI_n6EeqoavPVXq11ng" name="E-mail" type="IDENTIFIER" AttributeLinkTarget="_RO6csPn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_RO2LJPn6EeqoavPVXq11ng" name="Senha" AttributeLinkTarget="_RO7Dpfn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Entity" xmi:id="_RO2LJfn6EeqoavPVXq11ng" name="Empresa" AttributeLinkSource="_RO-uA_n6EeqoavPVXq11ng" relationshipLink="_RO8R9Pn6EeqoavPVXq11ng _RO9f4Pn6EeqoavPVXq11ng" inheritanceSL="_RO7Dtfn6EeqoavPVXq11ng"/>
-    <nodes xmi:type="eer:Entity" xmi:id="_RO2yMPn6EeqoavPVXq11ng" name="Funcionário" AttributeLinkSource="_RO_VG_n6EeqoavPVXq11ng _RO9gGvn6EeqoavPVXq11ng _RO-G8Pn6EeqoavPVXq11ng" relationshipLink="_RO7D0Pn6EeqoavPVXq11ng _RO7qz_n6EeqoavPVXq11ng _RO845fn6EeqoavPVXq11ng _RO9f6_n6EeqoavPVXq11ng _RO9f9vn6EeqoavPVXq11ng _RO9gAfn6EeqoavPVXq11ng _RO_8Jvn6EeqoavPVXq11ng" inheritanceSL="_RO7Dvvn6EeqoavPVXq11ng"/>
+    <nodes xmi:type="eer:Entity" xmi:id="_RO2yMPn6EeqoavPVXq11ng" name="Funcionário" AttributeLinkSource="_RO_VG_n6EeqoavPVXq11ng _RO9gGvn6EeqoavPVXq11ng _RO-G8Pn6EeqoavPVXq11ng" relationshipLink="_RO7D0Pn6EeqoavPVXq11ng _RO7qz_n6EeqoavPVXq11ng _RO845fn6EeqoavPVXq11ng _RO9f6_n6EeqoavPVXq11ng _RO9gAfn6EeqoavPVXq11ng _RO_8Jvn6EeqoavPVXq11ng" inheritanceSL="_RO7Dvvn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Entity" xmi:id="_RO2yMfn6EeqoavPVXq11ng" name="Hospital" AttributeLinkSource="_RO_VM_n6EeqoavPVXq11ng" relationshipLink="_RO7q7_n6EeqoavPVXq11ng _RO8R3vn6EeqoavPVXq11ng _RO9gDPn6EeqoavPVXq11ng" inheritanceSL="_RO7Dx_n6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Inheritance" xmi:id="_RO2yMvn6EeqoavPVXq11ng" inheritanceGL="_RO7DrPn6EeqoavPVXq11ng" inheritanceSL="_RO7Dtfn6EeqoavPVXq11ng _RO7Dvvn6EeqoavPVXq11ng _RO7Dx_n6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Entity" xmi:id="_RO2yM_n6EeqoavPVXq11ng" name="Curados" AttributeLinkSource="_z_YssPoMEeqoavPVXq11ng" relationshipLink="_RO7qsPn6EeqoavPVXq11ng"/>
@@ -25,7 +25,7 @@
     <nodes xmi:type="eer:Relationship" xmi:id="_RO4AUfn6EeqoavPVXq11ng" name="Possui" relationshipLink="_RO8R9Pn6EeqoavPVXq11ng _RO8R__n6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_RO4AUvn6EeqoavPVXq11ng" name="Pertence" relationshipLink="_RO842vn6EeqoavPVXq11ng _RO845fn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_RO4AU_n6EeqoavPVXq11ng" name="Reporta" relationshipLink="_RO84-fn6EeqoavPVXq11ng _RO9gAfn6EeqoavPVXq11ng _RO9gDPn6EeqoavPVXq11ng"/>
-    <nodes xmi:type="eer:Relationship" xmi:id="_RO4AVPn6EeqoavPVXq11ng" name="Trabalha" relationshipLink="_RO9f4Pn6EeqoavPVXq11ng _RO9f6_n6EeqoavPVXq11ng _RO9f9vn6EeqoavPVXq11ng"/>
+    <nodes xmi:type="eer:Relationship" xmi:id="_RO4AVPn6EeqoavPVXq11ng" name="Trabalha" relationshipLink="_RO9f4Pn6EeqoavPVXq11ng _RO9f6_n6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Entity" xmi:id="_RO4AVfn6EeqoavPVXq11ng" name="Prontuário" AttributeLinkSource="_RO_8Xfn6EeqoavPVXq11ng _RPAjMPn6EeqoavPVXq11ng _RPAjNvn6EeqoavPVXq11ng" relationshipLink="_RO_8PPn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_RO4AVvn6EeqoavPVXq11ng" name="Geolocalização" AttributeLinkSource="_EQI-YPoNEeqoavPVXq11ng _EralIPoNEeqoavPVXq11ng" AttributeLinkTarget="_RO9gFfn6EeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_RO4AV_n6EeqoavPVXq11ng" name="Data de nascimento" AttributeLinkTarget="_RO9gGvn6EeqoavPVXq11ng"/>
@@ -86,13 +86,12 @@
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO8R6fn6EeqoavPVXq11ng" source="_RO3ZQ_n6EeqoavPVXq11ng" target="_RO3ZRfn6EeqoavPVXq11ng" participation="TOTAL" cardinality="MANY"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO8R9Pn6EeqoavPVXq11ng" source="_RO2LJfn6EeqoavPVXq11ng" target="_RO4AUfn6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO8R__n6EeqoavPVXq11ng" source="_RO3ZRvn6EeqoavPVXq11ng" target="_RO4AUfn6EeqoavPVXq11ng" participation="TOTAL" cardinality="MANY"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_RO842vn6EeqoavPVXq11ng" source="_RO3ZRvn6EeqoavPVXq11ng" target="_RO4AUvn6EeqoavPVXq11ng"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_RO845fn6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AUvn6EeqoavPVXq11ng"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_RO842vn6EeqoavPVXq11ng" source="_RO3ZRvn6EeqoavPVXq11ng" target="_RO4AUvn6EeqoavPVXq11ng" chosenLink="true"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_RO845fn6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AUvn6EeqoavPVXq11ng" chosenLink="true"/>
     <links xmi:type="eer:DirectInheritanceLink" xmi:id="_RO848Pn6EeqoavPVXq11ng" target="_RO4AUPn6EeqoavPVXq11ng" source="_RO3ZRvn6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO84-fn6EeqoavPVXq11ng" source="_RO4AUPn6EeqoavPVXq11ng" target="_RO4AU_n6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO9f4Pn6EeqoavPVXq11ng" source="_RO2LJfn6EeqoavPVXq11ng" target="_RO4AVPn6EeqoavPVXq11ng"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_RO9f6_n6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AVPn6EeqoavPVXq11ng" cardinality="MANY"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_RO9f9vn6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AVPn6EeqoavPVXq11ng"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_RO9f6_n6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AVPn6EeqoavPVXq11ng" participation="TOTAL" cardinality="MANY"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO9gAfn6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO4AU_n6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO9gDPn6EeqoavPVXq11ng" source="_RO2yMfn6EeqoavPVXq11ng" target="_RO4AU_n6EeqoavPVXq11ng"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_RO9gFfn6EeqoavPVXq11ng" source="_RO1kEPn6EeqoavPVXq11ng" target="_RO4AVvn6EeqoavPVXq11ng"/>
@@ -112,7 +111,7 @@
     <links xmi:type="eer:AttributeLink" xmi:id="_RO_VOfn6EeqoavPVXq11ng" source="_RO3ZQ_n6EeqoavPVXq11ng" target="_RO5Odvn6EeqoavPVXq11ng"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_RO_8IPn6EeqoavPVXq11ng" source="_RO3ZQ_n6EeqoavPVXq11ng" target="_RO5Od_n6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO_8Jvn6EeqoavPVXq11ng" source="_RO2yMPn6EeqoavPVXq11ng" target="_RO51gfn6EeqoavPVXq11ng"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_RO_8Mfn6EeqoavPVXq11ng" source="_RO3ZQ_n6EeqoavPVXq11ng" target="_RO51gfn6EeqoavPVXq11ng"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_RO_8Mfn6EeqoavPVXq11ng" source="_RO3ZQ_n6EeqoavPVXq11ng" target="_RO51gfn6EeqoavPVXq11ng" chosenLink="true"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO_8PPn6EeqoavPVXq11ng" source="_RO4AVfn6EeqoavPVXq11ng" target="_RO51gvn6EeqoavPVXq11ng" participation="TOTAL"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_RO_8Xfn6EeqoavPVXq11ng" source="_RO4AVfn6EeqoavPVXq11ng" target="_RO51g_n6EeqoavPVXq11ng"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_RPAjMPn6EeqoavPVXq11ng" source="_RO4AVfn6EeqoavPVXq11ng" target="_RO51hPn6EeqoavPVXq11ng"/>
@@ -904,19 +903,6 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RO9f8_n6EeqoavPVXq11ng" points="[0, -5, 201, 0]$[-207, -4, -6, 1]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RO9f9Pn6EeqoavPVXq11ng" id="(0.0,0.5)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RO9f9fn6EeqoavPVXq11ng" id="(0.84,0.25)"/>
-    </edges>
-    <edges xmi:type="notation:Edge" xmi:id="_RO9f9_n6EeqoavPVXq11ng" type="4006" element="_RO9f9vn6EeqoavPVXq11ng" source="_ROwEnvn6EeqoavPVXq11ng" target="_ROygwvn6EeqoavPVXq11ng">
-      <children xmi:type="notation:DecorationNode" xmi:id="_RO9f-Pn6EeqoavPVXq11ng" visible="false" type="6006">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_RO9f-fn6EeqoavPVXq11ng" x="5" y="5"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_RO9f-vn6EeqoavPVXq11ng" type="6007">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_RO9f-_n6EeqoavPVXq11ng" x="5" y="5"/>
-      </children>
-      <styles xmi:type="notation:RoutingStyle" xmi:id="_RO9f_Pn6EeqoavPVXq11ng"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_RO9f_fn6EeqoavPVXq11ng" fontName="Segoe UI"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RO9f_vn6EeqoavPVXq11ng" points="[0, -8, 220, 0]$[-219, -7, 1, 1]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RO9f__n6EeqoavPVXq11ng" id="(0.011363636363636364,0.6222222222222222)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RO9gAPn6EeqoavPVXq11ng" id="(0.65,0.8)"/>
     </edges>
     <edges xmi:type="notation:Edge" xmi:id="_RO9gAvn6EeqoavPVXq11ng" type="4006" element="_RO9gAfn6EeqoavPVXq11ng" source="_ROwEnvn6EeqoavPVXq11ng" target="_ROx5zvn6EeqoavPVXq11ng">
       <children xmi:type="notation:DecorationNode" xmi:id="_RO9gA_n6EeqoavPVXq11ng" type="6006">
