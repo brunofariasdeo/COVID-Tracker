@@ -1,34 +1,34 @@
-# COVID-Tracker
-* Entrega Atual (19/09/2020 ) :
-```
-def block of text/code
-> foo
-> Lorem ipsum
-```
+# COVID-Tracker **Projeto de BD IF976**
+Repositório do Projeto **_COVID-Tracker_** de Banco de Dados **BD IF976** @ CIn-UFPE, 2020.3
 
 
-### Especificações (Minimundo e ER)
-Especificações da Entrega 01 (Minimundo e ER) [Projeto de BD IF976 CIn-UFPE 2020.3]
+## Entregas:
+- [x] ~Entrega 01 (19/09/2020)~  
+Minimundo e Modelo ER (Conceitual)
+
+
+### Checklist / Especificações (Minimundo e ER)
+Especificações da Entrega 01 (Minimundo e Modelo ER Conceitual)
 
 * das Entidades:
-- [x] Entidade Associativa
-- [x] Herança (qualquer tipo)
+- [x] ~Entidade Associativa~
+- [x] ~Herança (qualquer tipo)~
 
 * dos Atributos:
-- [x] Atributo composto
-- [x] Atributo multivalorado
-- [x] Atributo discriminador em relacionamento
+- [x] ~Atributo composto~
+- [x] ~Atributo multivalorado~
+- [x] ~Atributo discriminador em relacionamento~
 
 * dos Relacionamentos:
-- [x] Relacionamento 1:1
-- [x] Relacionamento 1:N
-- [x] Relacionamento N:M
-- [x] Relacionamento parcial-total
-- [x] Relacionamento parcial-parcial
-- [x] Relacionamento identificador
-- [x] Relacionamento Unário
-- [x] Relacionamento Binário
-- [x] Relacionamento N-ário
+- [x] ~Relacionamento 1:1~
+- [x] ~Relacionamento 1:N~
+- [x] ~Relacionamento N:M~
+- [x] ~Relacionamento parcial-total~
+- [x] ~Relacionamento parcial-parcial~
+- [x] ~Relacionamento identificador~
+- [x] ~Relacionamento Unário~
+- [x] ~Relacionamento Binário~
+- [x] ~Relacionamento N-ário~
 
 
 # Minimundo
@@ -42,11 +42,15 @@ Em termos de organização, este processo pode ser observado pela ótica dos tr�
 Também haverá comunicação do sistema com empresas terceirizadas por parte dos hospitais, que irão garantir as questões relacionadas à processos que envolvem finanças.  
 
 
+## Etapas do projeto 
+- [x] ~Entrega 01 (19/09/2020)~  
+- [x] Entrega 02 (xx/10/2020)  
+- [x] Entrega 03 (xx/11/2020)  
+- [x] Entrega 04 (xx/11/2020)  
 
 
-
-#### Etapas do projeto 
-Projeto da cadeira IF976 Banco de dados professor .... ... .
-
-####
-Equipe
+#### Equipe
+* João Victor Marques dos Santos
+* José Bruno Farias de Oliveira
+* Lucas Glasner Regis
+* Vinicius da Rosa Silva
