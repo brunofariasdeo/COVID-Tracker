@@ -43,10 +43,12 @@ Também haverá comunicação do sistema com empresas terceirizadas por parte do
 
 
 # Modelo Conceitual (Modelo ER Entidade-Relacionamento)
-Imagem da etapa base (esqueleto) :
-<embed src="/assets/Covid_Tracker_Model.pdf" type="application/pdf">
-Imagem da etapa final :
-<embed src="/assets/Modelo Esqueleto.pdf" type="application/pdf">
+Imagem da etapa final :  
+![Imagem de Covid_Tracker_Model]("/assets/Covid_Tracker_Model.png")
+
+Imagem da etapa base (esqueleto) :  
+![Imagem de Modelo Esqueleto]("/assets/Modelo Esqueleto.png")
+
 
 ## Etapas do projeto 
 - [x] ~Entrega 01 (19/09/2020)~  
@@ -56,7 +58,7 @@ Imagem da etapa final :
 
 
 #### Equipe
-* João Victor Marques dos Santos
-* José Bruno Farias de Oliveira
-* Lucas Glasner Regis
-* Vinicius da Rosa Silva
+* João Victor Marques dos Santos ([jvms@cin.ufpe.br](mailto:jvms@cin.ufpe.br))
+* José Bruno Farias de Oliveira ([jbfo@cin.ufpe.br](mailto:jbfo@cin.ufpe.br))
+* Lucas Glasner Regis ([lgr3@cin.ufpe.br](mailto:lgr3@cin.ufpe.br))
+* Vinicius da Rosa Silva ([vrs2@cin.ufpe.br](mailto:vrs2@cin.ufpe.br))
