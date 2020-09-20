@@ -44,10 +44,11 @@ Também haverá comunicação do sistema com empresas terceirizadas por parte do
 
 # Modelo Conceitual (Modelo ER Entidade-Relacionamento)
 Imagem da etapa final :  
-![Imagem de Covid_Tracker_Model]("/assets/Covid_Tracker_Model.png")
+![]("/assets/Covid_Tracker_Model.png")
+![](/assets/Covid_Tracker_Model.png)
 
 Imagem da etapa base (esqueleto) :  
-![Imagem de Modelo Esqueleto]("/assets/Modelo Esqueleto.png")
+![]("/assets/Modelo_Esqueleto.png")
 
 
 ## Etapas do projeto 
