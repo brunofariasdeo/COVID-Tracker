@@ -42,6 +42,12 @@ Em termos de organização, este processo pode ser observado pela ótica dos tr�
 Também haverá comunicação do sistema com empresas terceirizadas por parte dos hospitais, que irão garantir as questões relacionadas à processos que envolvem finanças.  
 
 
+# Modelo Conceitual (Modelo ER Entidade-Relacionamento)
+Imagem da etapa base (esqueleto) :
+<embed src="/assets/Covid_Tracker_Model.pdf" type="application/pdf">
+Imagem da etapa final :
+<embed src="/assets/Modelo Esqueleto.pdf" type="application/pdf">
+
 ## Etapas do projeto 
 - [x] ~Entrega 01 (19/09/2020)~  
 - [x] Entrega 02 (xx/10/2020)  
