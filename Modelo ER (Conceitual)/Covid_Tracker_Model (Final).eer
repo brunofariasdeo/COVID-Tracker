@@ -62,8 +62,8 @@
     <nodes xmi:type="eer:Attribute" xmi:id="_CLu2oPoNEeqoavPVXq11ng" name="Longitude" AttributeLinkTarget="_EralIPoNEeqoavPVXq11ng"/>
     <nodes xmi:type="eer:Relationship" xmi:id="__UXMAAkiEeu9OILIECanPw" name="Alerta" relationshipLink="_BB9WQAkjEeu9OILIECanPw _B5I14AkjEeu9OILIECanPw"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_2PVEsAkjEeu9OILIECanPw" name="Número de funcionários" type="DERIVED" AttributeLinkTarget="_23IrkAkjEeu9OILIECanPw"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_SawUIAqOEeu7Edy9YbKUuw" name="CPF" AttributeLinkTarget="_Sa3B0AqOEeu7Edy9YbKUuw"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_WquUgAqOEeu7Edy9YbKUuw" name="CPF" AttributeLinkTarget="_WqxX0AqOEeu7Edy9YbKUuw"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_SawUIAqOEeu7Edy9YbKUuw" name="CPF" type="IDENTIFIER" AttributeLinkTarget="_Sa3B0AqOEeu7Edy9YbKUuw"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_WquUgAqOEeu7Edy9YbKUuw" name="CPF" type="IDENTIFIER" AttributeLinkTarget="_WqxX0AqOEeu7Edy9YbKUuw"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO6ckPn6EeqoavPVXq11ng" source="_RO2LIfn6EeqoavPVXq11ng" target="_RO2LIvn6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO6cmvn6EeqoavPVXq11ng" source="_RO1kEPn6EeqoavPVXq11ng" target="_RO2LIvn6EeqoavPVXq11ng"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_RO6cpfn6EeqoavPVXq11ng" source="_RO1kEPn6EeqoavPVXq11ng" target="_RO2LIvn6EeqoavPVXq11ng"/>
@@ -128,8 +128,8 @@
     <links xmi:type="eer:RelationshipLink" xmi:id="_BB9WQAkjEeu9OILIECanPw" source="_RO2yMPn6EeqoavPVXq11ng" target="__UXMAAkiEeu9OILIECanPw" cardinality="MANY" role="Alerta"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_B5I14AkjEeu9OILIECanPw" source="_RO2yMPn6EeqoavPVXq11ng" target="__UXMAAkiEeu9OILIECanPw" cardinality="MANY" role="É alertado"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_23IrkAkjEeu9OILIECanPw" source="_RO3ZRvn6EeqoavPVXq11ng" target="_2PVEsAkjEeu9OILIECanPw"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_QH_vsAqAEeuWif9iAxFJvQ" source="_RO2yM_n6EeqoavPVXq11ng" target="_RO3ZQPn6EeqoavPVXq11ng" cardinality="MANY"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_TSkOQAqAEeuWif9iAxFJvQ" source="_RO2yNPn6EeqoavPVXq11ng" target="_RO3ZQfn6EeqoavPVXq11ng" cardinality="MANY"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_QH_vsAqAEeuWif9iAxFJvQ" source="_RO2yM_n6EeqoavPVXq11ng" target="_RO3ZQPn6EeqoavPVXq11ng" participation="TOTAL" cardinality="MANY"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_TSkOQAqAEeuWif9iAxFJvQ" source="_RO2yNPn6EeqoavPVXq11ng" target="_RO3ZQfn6EeqoavPVXq11ng" participation="TOTAL" cardinality="MANY"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_Sa3B0AqOEeu7Edy9YbKUuw" source="_RO2yM_n6EeqoavPVXq11ng" target="_SawUIAqOEeu7Edy9YbKUuw"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_WqxX0AqOEeu7Edy9YbKUuw" source="_RO2yNPn6EeqoavPVXq11ng" target="_WquUgAqOEeu7Edy9YbKUuw"/>
   </eer:Schema>
