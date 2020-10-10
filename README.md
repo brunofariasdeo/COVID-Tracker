@@ -21,14 +21,13 @@ Imagem da etapa base (esqueleto) :
 
 
 ## Entregas:
-- [x] ~Entrega 01 (19/09/2020)~
-  - [x] ~Entrega 01 v1.1 (Correção do Modelo Conceitual) (09/10/2020)~
-Minimundo e Modelo ER (Conceitual)
+- [x] ~Entrega 01 (19/09/2020)~ Minimundo e Modelo ER (Conceitual)
+  - [x] ~Entrega 01 (09/10/2020)~ (Correção do Modelo Conceitual)
 
 
 ## Etapas do projeto 
 - [x] ~Entrega 01 (19/09/2020)~
-  - [x] ~Entrega 01 (Correção do Modelo Conceitual) (09/10/2020)~
+  - [x] ~Entrega 01 (09/10/2020)~ (Correção do Modelo Conceitual) 
 - [x] Entrega 02 (xx/10/2020)  
 - [x] Entrega 03 (xx/11/2020)  
 - [x] Entrega 04 (xx/11/2020)  
