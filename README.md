@@ -21,48 +21,48 @@ Imagem da etapa base (esqueleto) :
 
 
 ## Entregas:
-- [x] ~Entrega 01 (19/09/2020)~ Minimundo e Modelo ER (Conceitual)
-  - [x] ~Entrega 01 (09/10/2020)~ (Correção do Modelo Conceitual)
+- [x] Entrega 01 (19/09/2020) Minimundo e Modelo ER (Conceitual)
+  - [x] Entrega 01 (09/10/2020) (Correção do Modelo Conceitual)
 - [x] Entrega 02 (01/11/2020) (Modelo Físico)
 
 ## Etapas do projeto 
-- [x] ~Entrega 01 (19/09/2020)~
-  - [x] ~Entrega 01.1 (09/10/2020)~ 
+- [x] Entrega 01 (19/09/2020)
+  - [x] Entrega 01.1 (09/10/2020)
 - [x] Entrega 02 (01/11/2020) 
-- [x] Entrega 03 (xx/11/2020)  
-- [x] Entrega 04 (xx/11/2020)  
+- [ ] Entrega 03 (xx/11/2020)  
+- [ ] Entrega 04 (xx/11/2020)  
 
 
 ### Checklist / Especificações da Entrega 01 (Minimundo e ER)
 Especificações da Entrega 01 (Minimundo e Modelo ER Conceitual)
 
 * das Entidades:
-- [x] ~Entidade Associativa~
-- [x] ~Herança (qualquer tipo)~
+- [x] Entidade Associativa
+- [x] Herança (qualquer tipo)
 
 * dos Atributos:
-- [x] ~Atributo composto~
-- [x] ~Atributo multivalorado~
-- [x] ~Atributo discriminador em relacionamento~
+- [x] Atributo composto
+- [x] Atributo multivalorado
+- [x] Atributo discriminador em relacionamento
 
 * dos Relacionamentos:
-- [x] ~Relacionamento 1:1~
-- [x] ~Relacionamento 1:N~
-- [x] ~Relacionamento N:M~
-- [x] ~Relacionamento parcial-total~
-- [x] ~Relacionamento parcial-parcial~
-- [x] ~Relacionamento identificador~
-- [x] ~Relacionamento Unário~
-- [x] ~Relacionamento Binário~
-- [x] ~Relacionamento N-ário~
+- [x] Relacionamento 1:1
+- [x] Relacionamento 1:N
+- [x] Relacionamento N:M
+- [x] Relacionamento parcial-total
+- [x] Relacionamento parcial-parcial
+- [x] Relacionamento identificador
+- [x] Relacionamento Unário
+- [x] Relacionamento Binário
+- [x] Relacionamento N-ário
 
 ### Checklist / Especificações da Entrega 02 (Modelo Físico)
 Especificações da Entrega 01 (Minimundo e Modelo ER Conceitual)
 
 * Requisitos:
-- [x] ~Script de CREATE~
-- [x] ~Script de INSERT~
-- [x] ~Script de SELECT~
+- [x] Script de CREATE
+- [x] Script de INSERT
+- [x] Script de SELECT
 
 ---
 
