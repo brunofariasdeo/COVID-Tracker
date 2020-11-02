@@ -23,12 +23,12 @@ Imagem da etapa base (esqueleto) :
 ## Entregas:
 - [x] ~Entrega 01 (19/09/2020)~ Minimundo e Modelo ER (Conceitual)
   - [x] ~Entrega 01 (09/10/2020)~ (Correção do Modelo Conceitual)
-
+- [x] Entrega 02 (01/11/2020) (Modelo Físico)
 
 ## Etapas do projeto 
 - [x] ~Entrega 01 (19/09/2020)~
-  - [x] ~Entrega 01 (09/10/2020)~ (Correção do Modelo Conceitual) 
-- [x] Entrega 02 (xx/10/2020)  
+  - [x] ~Entrega 01.1 (09/10/2020)~ 
+- [x] Entrega 02 (01/11/2020) 
 - [x] Entrega 03 (xx/11/2020)  
 - [x] Entrega 04 (xx/11/2020)  
 
@@ -56,9 +56,15 @@ Especificações da Entrega 01 (Minimundo e Modelo ER Conceitual)
 - [x] ~Relacionamento Binário~
 - [x] ~Relacionamento N-ário~
 
+### Checklist / Especificações da Entrega 02 (Modelo Físico)
+Especificações da Entrega 01 (Minimundo e Modelo ER Conceitual)
+
+* Requisitos:
+- [x] ~Script de CREATE~
+- [x] ~Script de INSERT~
+- [x] ~Script de SELECT~
 
 ---
-
 
 ### Equipe
 * João Victor Marques dos Santos ([jvms@cin.ufpe.br](mailto:jvms@cin.ufpe.br))
